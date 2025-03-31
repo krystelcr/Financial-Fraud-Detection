@@ -1,5 +1,4 @@
 Financial Fraud Dataset - Basic Pipeline 
-NOTE: READ THIS DOCUMENT THOROUGHLY FOR SUCCESS 
 
 
 Background 
@@ -74,30 +73,3 @@ iv. How did your model's performance change after discovering optimal hyperparam
 v. What was your final F1 Score? 
 
 
-FAQ 
-1. This project seems really ambiguous, how should I start? 
-Part of being a successful technologist is figuring out how to start a project yourself. Oftentimes, we do not have frameworks to base our projects on, except for our own work. 
-
-Therefore, we recommend that you look back to your previous TLABS and in-class labs to see which code could potentially apply to each part of this project. 
-Looking back to our first TLAB (Rental Price Prediction), it looks like we have some template code for at least our EDA.
-
-2. How am I supposed to run my analysis if I don’t include my dataset in GitHub? 
-Keep in mind that just because something is not pushed to GItHub, does not mean that you will not be able to use it on your local machine (even if it is in your cloned git repository!) 
-
-3. I don’t know how to make a RandomForest/GradientBoosting model. Where do I look to find this out? 
-
-We provide links to both models. Check out the example code to get started. Also we recommend that you use Google to see how other data scientists implement these learning algorithms. 
-
-4. How do I implement hyperparameter tuning? 
-We provide links to both Grid & RandomizedSearch objects. Check out the example code provided, as well as your code from the previous weeks labs for ideas. 
-
-5. Which model/hyperparameter tuning strategy do I choose? 
-This is your executive decision to make. Better yet, why don’t you try out both and see which one performs better? 
-
-
-Submission 
-Submit a link to your repository with all required notebooks and write ups tp Canvas
-For an example of how this machine learning project could look like, check out the following repositories: 
-● Fish Toxicity 
-● Student Performance Prediction 
-We are primarily interested in seeing which ideas you took away from the previous weeks of supervised learning. Hesitate to copy ChatGPT code, you will not receive accurate feedback by providing us with LLM generated code. We want to see your work.
